@@ -2,7 +2,7 @@ dash-design-kit
 dash>=2.9.3
 gunicorn
 pandas
-plotly-resampler
+plotly_resampler
 trace-updater
 dash_extensions
 redis
