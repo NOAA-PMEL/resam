@@ -1,8 +1,8 @@
-dash-design-kit==1.6.7
+dash-design-kit
 dash>=2.9.3
-gunicorn==20.0.4
-pandas==1.1.4
-plotly-resampler>=0.8
+gunicorn
+pandas
+plotly-resampler
 trace-updater
 dash_extensions
 redis
