@@ -6,3 +6,4 @@ plotly-resampler
 trace-updater
 dash_extensions
 redis
+packaging==20.4
