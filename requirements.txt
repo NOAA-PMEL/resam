@@ -2,7 +2,6 @@ dash-design-kit
 dash>=2.9.3
 gunicorn
 pandas
--i https://pypi.org
 plotly-resampler
 trace-updater
 dash_extensions
