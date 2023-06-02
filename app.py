@@ -64,6 +64,7 @@ app.layout = ddk.App([
 )
 def plot_graph(n_clicks):
 
+    # This random data generation is stolen directly from the datashader timeseries docs: https://datashader.org/user_guide/Timeseries.html
     # Constants
     # don't seed, get different values everytime -----> np.random.seed(2)
     n = int(1 * 10 * 100000)               # Number of points
